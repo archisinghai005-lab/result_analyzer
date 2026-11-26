@@ -1,2 +1,3 @@
 # result_analyzer
-this is a result analyzer project
+this is my first git repository.
+by-archi
